@@ -28,10 +28,10 @@ E para interagir com esses bancos relacionais de dados, utilizamos os SGBDs.
 ## O que é um banco de dados não relacional?
 O banco de dados não relacional é um banco de dados que possibilita a flexibilidade na hora de armazenar os dados, já que não se limita a tabelas com linhas e colunas, como o banco de dados relacional. Esse tipo de banco de dados usa um modelo de armazenamento otimizado, que é adaptável para o requisito específico de cada dado, por exemplo: possibilita que os dados sejam armazenados como chave/valor simples; documento no formato JSON (JavaScript Object Notation) ou até mesmo em forma de gráfico, composto de bordas e vértices.
 ### Exemplo:
-![exemplo de tabela](https://s3.static.brasilescola.uol.com.br/monografias/2020/09/figura1.jpg)
+Um banco de dados não relacional é usado quando os dados são variados e não seguem uma estrutura fixa. Por exemplo, em um app de delivery, cada pedido pode ter informações diferentes (cupom, avaliação, extras), e um banco como o MongoDB permite armazenar tudo de forma flexível e rápida, sem depender de tabelas.
 
 ## O que é a normalização e qual seus objetivos?
 A normalização é o processo de organizar dados em um banco relacional para evitar repetições, corrigir inconsistências e melhorar a integridade e eficiência. Ela separa as informações em tabelas menores e relacionadas, facilitando a manutenção e reduzindo o uso de espaço.
-### Exemplo:
 
+## Exemplo de tabela não normalizada
 
