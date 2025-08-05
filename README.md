@@ -36,3 +36,4 @@ A normalização é o processo de organizar dados em um banco relacional para ev
 ## Exemplo de tabela não normalizada
 
 
+
