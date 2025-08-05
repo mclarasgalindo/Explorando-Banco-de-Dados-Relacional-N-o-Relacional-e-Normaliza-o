@@ -21,4 +21,4 @@ As colunas representam os atributos ou características dessas entidades, enquan
 
 E para interagir com esses bancos relacionais de dados, utilizamos os SGBDs.
 ### Exemplo prático
-https://s3.static.brasilescola.uol.com.br/monografias/2020/09/figura1.jpg
+https://s3.static.brasilescola.uol.com.br/monografias/2020/09/figura1.jpghttps://s3.static.brasilescola.uol.com.br/monografias/2020/09/figura1.jpg
