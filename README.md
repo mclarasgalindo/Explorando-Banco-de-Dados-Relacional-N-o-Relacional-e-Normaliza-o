@@ -47,37 +47,31 @@ A normalização é o processo de organizar dados em um banco relacional para ev
 
 ## Tabela em Json:
 {
+ 
   "pedido_id": 2,
   
   "cliente": {
-    
-    "nome": "Maria Souza",
    
-    "endereco": "Avenida Central, 456"
- 
+   
+  "nome": "Adriana Lima",
+    "endereco": "Rua S, 890"
   },
-  
  
   "itens": [
     
     {
-      
-      "produto_id": 15,
-      "nome": "Caderno",
+      "produto_id": 009,
+      "nome": "Banana",
       "quantidade": 3,
-      "preco_total": 30.00
+      "preco_total": 12.00
     },
-    {
-      "produto_id": 16,
-      "nome": "Borracha",
-      "quantidade": 2,
-      "preco_total": 4.00
-    }
+
   
   ]
 
 }
 
+![exemplo de tabela](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHVhZ3I4Y201bnB5bGFyejI3YTRscjNzdnBwcmd2bG50ZDM4eGhibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hCC3P7dj3NKSI/giphy.gif)
 
 
 
