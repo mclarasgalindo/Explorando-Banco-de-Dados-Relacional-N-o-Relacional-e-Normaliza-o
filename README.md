@@ -54,9 +54,12 @@ A normalização é o processo de organizar dados em um banco relacional para ev
     "nome": "Maria Souza",
    
     "endereco": "Avenida Central, 456"
+ 
   },
   
+ 
   "itens": [
+    
     {
       
       "produto_id": 15,
@@ -70,7 +73,9 @@ A normalização é o processo de organizar dados em um banco relacional para ev
       "quantidade": 2,
       "preco_total": 4.00
     }
+  
   ]
+
 }
 
 
