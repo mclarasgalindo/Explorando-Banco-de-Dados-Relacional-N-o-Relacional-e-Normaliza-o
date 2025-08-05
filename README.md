@@ -1,4 +1,6 @@
 # Explorando Banco de Dados Relacional No Relacional e Normalização:
+![exemplo de tabela](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXRtMnQ1ZjN3aTlmOTI2eGJsZWtrY25wZDZ1NWt2b3VjdDUxYnUxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TZco470UACpNK/giphy.gif)
+
 
 ## O que é um Banco de Dados?
 Um banco de dados é uma coleção organizada e estruturada de informações, armazenadas de forma a permitir o acesso, a manipulação e a recuperação eficiente dos dados.
@@ -21,4 +23,6 @@ As colunas representam os atributos ou características dessas entidades, enquan
 
 E para interagir com esses bancos relacionais de dados, utilizamos os SGBDs.
 ### Exemplo prático
-https://s3.static.brasilescola.uol.com.br/monografias/2020/09/figura1.jpghttps://s3.static.brasilescola.uol.com.br/monografias/2020/09/figura1.jpg
+![exemplo de tabela](https://s3.static.brasilescola.uol.com.br/monografias/2020/09/figura1.jpg)
+
+## O que é um banco de dados não relacional
