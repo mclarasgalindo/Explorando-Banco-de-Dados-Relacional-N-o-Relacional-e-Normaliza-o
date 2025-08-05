@@ -33,7 +33,50 @@ Um banco de dados não relacional é usado quando os dados são variados e não 
 ## O que é a normalização e qual seus objetivos?
 A normalização é o processo de organizar dados em um banco relacional para evitar repetições, corrigir inconsistências e melhorar a integridade e eficiência. Ela separa as informações em tabelas menores e relacionadas, facilitando a manutenção e reduzindo o uso de espaço.
 
-## Exemplo de tabela não normalizada
+## Exemplo de tabela não normalizada:
+![exemplo de tabela](tabelacentro.png)
+
+### 1- Tabela clientes:
+![exemplo de tabela](tabelacliente.png)
+
+### 2- Tabela Produtos:
+![exemplo de tabela](tabelaprodutos.png)
+
+### 3- Tabela Pedidos
+![exemplo de tabela](tabeladepedidos.png)
+
+## Tabela em Json:
+{
+  "pedido_id": 2,
+  
+  "cliente": {
+    
+    "nome": "Maria Souza",
+   
+    "endereco": "Avenida Central, 456"
+  },
+  
+  "itens": [
+    {
+      
+      "produto_id": 15,
+      "nome": "Caderno",
+      "quantidade": 3,
+      "preco_total": 30.00
+    },
+    {
+      "produto_id": 16,
+      "nome": "Borracha",
+      "quantidade": 2,
+      "preco_total": 4.00
+    }
+  ]
+}
+
+
+
+
+
 
 
 
